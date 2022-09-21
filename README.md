@@ -1,4 +1,6 @@
 Listar repositorios
 
-basta trocar o fetch(link da sua api github/repos)
+Basta trocar o fetch(link da sua api github/repos)
 ex: api.github.com/users/{nome do seu github}/repos
+
+Apos feito essa alteração, abra o terminal dentro do projeto e rode o comando yarn e depois yarn dev ou npm install e npm run dev
